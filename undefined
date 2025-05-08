@@ -1,0 +1,9 @@
+import Page from "@/app/page";
+
+export default function PortfolioStoryboard() {
+  return (
+    <div className="bg-background">
+      <Page />
+    </div>
+  );
+}
